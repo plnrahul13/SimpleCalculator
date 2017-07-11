@@ -1,0 +1,1 @@
+C:\Users\PSN Sarma\documents\visual studio 2017\Projects\Calculator\Calculator\Calculator.csproj;x64
